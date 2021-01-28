@@ -14,7 +14,7 @@ github-repo: aliciatb/open-data-book
 
 # Hi!
 
-Thank you for joining me on a journey to discover open data in the world of local governments and determine how it 
+Thank you for joining me on a journey to discover open data in the world of local governments.
 
 ```{r include=FALSE}
 # automatically create a bib database for R packages

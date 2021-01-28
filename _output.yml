@@ -3,15 +3,15 @@ bookdown::gitbook:
   config:
     toc:
       before: |
-        <li><a href="https://github.com/aliciatb/OpenDataExploreR">Release the Data!</a></li>
+        <li><a href="./">Open Data Book</a></li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
     download: ["pdf", "epub"]
-    edit: https://github.com/rstudio/bookdown/edit/master/inst/examples/%s
+    edit: https://github.com/aliciatb/open-data-book/edit/main/%s
     sharing:
       github: yes
       facebook: no
-    all: ['facebook', 'twitter', 'linkedin', 'weibo', 'instapaper']
+    all: ['twitter', 'linkedin']
     info: yes
     url: "https://msaliciabrown/open-data-book"
     github-repo: "aliciatb/open-data-book"
