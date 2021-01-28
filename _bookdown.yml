@@ -1,0 +1,6 @@
+book_filename: "open-data-book"
+repo: https://github.com/aliciatb/open-data-book
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: "Chapter "
