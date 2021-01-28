@@ -1,5 +1,5 @@
 --- 
-title: "In Search of Open Data"
+title: "An Open Data Field Guide"
 author: "Alicia Brown"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -14,7 +14,7 @@ github-repo: aliciatb/open-data-book
 
 # Hi!
 
-Thank you for joining me on a journey to discover open data in the world of local governments.
+Thank you for joining me on a journey to learn how local governments acquire, use, discover and share Open Data to improve community services with efficiency and innovation.
 
 ```{r include=FALSE}
 # automatically create a bib database for R packages

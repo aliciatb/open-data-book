@@ -1,0 +1,15 @@
+# What Data? {#what-data}
+
+## Tabular
+
+## Spatial
+
+## Dashboards
+
+## Stories
+
+## Visualizations
+
+## Surveys
+
+## Reports

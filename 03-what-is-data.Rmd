@@ -1,9 +1,0 @@
-# What is data? {#what-is-data}
-
-## Tabular
-
-## Spatial
-
-## Surveys
-
-## Reports

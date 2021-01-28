@@ -1,5 +1,0 @@
-# It's Not the Data  {#it-about-info}
-
-Nobody wants to download 1 million records of taxi rides, but they do want to know why tips increased after a software update^[https://iquantny.tumblr.com/post/107245431809/programming-on-taxi-payment-systems-increases-tip].
-
-
