@@ -1,3 +1,0 @@
-# Introductions {#intro}
-
-The purpose of this book is to provide use cases for Open Data and explore methods for disovering and sharing information and data well.

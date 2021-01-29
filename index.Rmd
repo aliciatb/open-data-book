@@ -13,9 +13,13 @@ github-repo: aliciatb/open-data-book
 cover-image: images/gauravdeep-singh-bansal-caC13DIDe9E-unsplash.jpg
 ---
 
-# Hi!
+# Welcome
 
 Thank you for joining me on a journey to learn how local governments acquire, use, discover and share Open Data to improve community services with efficiency and innovation.
+
+I have had the great honor to work with many amazing organizations, agencies and governments to implement technology solutions that enabled the unleashing of data and analytics to power decision making and transparency.
+
+The purpose of this book is to share use cases for Open Data and identify reusable patterns for discovering and unlocking data for use by everyone.
 
 ```{r include=FALSE}
 # automatically create a bib database for R packages
