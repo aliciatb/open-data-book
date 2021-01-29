@@ -1,5 +1,5 @@
 --- 
-title: "An Open Data Field Guide"
+title: "A Field Guide to Open Data"
 author: "Alicia Brown"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -10,6 +10,7 @@ link-citations: yes
 description: "A book about the discovery, use and evangelization of Open Data for Local Governments"
 url: 'https\://msaliciabrown/open-data-book'
 github-repo: aliciatb/open-data-book
+cover-image: images/gauravdeep-singh-bansal-caC13DIDe9E-unsplash.jpg
 ---
 
 # Hi!
