@@ -1,7 +1,10 @@
 bookdown::gitbook:
   css: style.css
+  highlight: tango
   config:
     toc:
+      toc_depth: 2
+      collapse: section
       before: |
         <li><a href="./">A Field Guide to Open Data</a></li>
       after: |
@@ -11,7 +14,8 @@ bookdown::gitbook:
     sharing:
       github: yes
       facebook: no
-    all: ['twitter', 'linkedin']
+      twitter: yes
+    all: no
     info: yes
     url: "https://msaliciabrown/open-data-book"
     github-repo: "aliciatb/open-data-book"
@@ -21,4 +25,6 @@ bookdown::pdf_book:
   latex_engine: xelatex
   citation_package: natbib
   keep_tex: yes
+  toc: true
+  toc_depth: 2
 bookdown::epub_book: default

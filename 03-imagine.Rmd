@@ -1,0 +1,32 @@
+# Imagining Open Data {#imagine}
+
+## Sharing
+
+Adding datasets to a platform may benefit power users of data and make it easy consumable by tools and programming languages. However data alone will not advance the knowledge of the community it is intended to serve without also including narrative and insights from the collections of datasets shared to a platform.
+
+* Stories & Narrative
+* Live tiles
+* Data driven documentation
+* Dashboards
+* Goals
+* Reports
+* Info sheets
+
+## Accessing
+
+* Tools
+* Open source library
+* APIs
+
+## Discovery
+
+* Metadata
+* Harvestable
+* Standard schemas
+
+## Improving the Ecosystem
+
+* Ownership and stewardship
+* Automation
+* Data refreshes
+* Quality monitoring

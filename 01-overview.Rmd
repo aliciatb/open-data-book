@@ -1,0 +1,50 @@
+# An Open Data Primer {#overview}
+
+## What is Open Data?
+
+> "Open data is information or content made freely available to use and redistribute, subject only to the requirement to attribute it to the source."
+>
+> --- Gartner^[@gartner_opendata_def]
+
+### Topics
+
+Popular data topics include emergency calls for service, budget, revenue, expenditures, property tax, permits, food inspections, government service calls, lost and found pets, crime incidents, jail bookings, voting registration and election results. When this data includes date, time and location, it can be valuable for performance management and refining staffing for services. When it includes demographic information it makes it possible to analyze differences in data by gender, race and ethnicity, and age and can help inform where there should be more outreach and consider mode of communication that may be most effective.
+
+### Types
+
+* Tabular
+* Spatial
+* Dashboards
+* Stories
+* Visualizations
+* Surveys
+* Reports
+
+## How is it used?
+
+### Organizational Goals
+
+* Public information
+* Transparency
+* Fine tune staffing and location
+* Equity and performance measurement
+* Insights and data mining
+
+### Civic
+
+* Apps
+* Contests
+
+## Who uses it?
+
+* Producer organizations
+* Community users (civic)
+* Academic
+
+### Personas
+
+There are many people and roles across organizations that require data. Here are some personas based on individuals I have met and worked with to get the data they need to perform their jobs. Please note that the names are made up and intended to reflect any specific gender.
+
+* Alex the Analyst
+* Pat the Performance Manager
+* the Executive
