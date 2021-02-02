@@ -19,4 +19,3 @@ jobs:
         destination_folder: 'static/open-data-book'
         user_email: 'aliciatb@gmail.com'
         user_name: 'aliciatb'
-        commit_message: 'hi'
