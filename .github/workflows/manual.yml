@@ -14,8 +14,8 @@ jobs:
       env:
         API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
       with:
-        source_file: 'book'
-        destination_repo: 'blog/static/open-data-book'
-        destination_folder: 'test-dir'
+        source_file: '_book'
+        destination_repo: 'blog'
+        destination_folder: 'static/open-data-book'
         user_email: 'aliciatb@gmail.com'
         user_name: 'aliciatb'
