@@ -9,13 +9,14 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v2
 
-    - name: Pushes test file
+    - name: Pushes book files to blog
       uses: dmnemec/copy_file_to_another_repo_action@v1.0.4
       env:
         API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
       with:
         source_file: '_book'
-        destination_repo: 'blog'
+        destination_repo: 'aliciatb/blog'
         destination_folder: 'static/open-data-book'
         user_email: 'aliciatb@gmail.com'
         user_name: 'aliciatb'
+        commit_message: 'hi'
