@@ -1,0 +1,21 @@
+name: Push File
+
+on: push
+
+jobs:
+  copy-file:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    - name: Pushes test file
+      uses: dmnemec/copy_file_to_another_repo_action@v1.0.4
+      env:
+        API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+      with:
+        source_file: 'book'
+        destination_repo: 'blog/static/open-data-book'
+        destination_folder: 'test-dir'
+        user_email: 'aliciatb@gmail.com'
+        user_name: 'aliciatb'
