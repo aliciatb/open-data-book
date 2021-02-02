@@ -2,7 +2,10 @@ welcome
 overview
 what-is-open-data
 topics
-types
+databases
+files
+reports
+dashboards
 how-is-it-used
 organizational-goals
 civic
