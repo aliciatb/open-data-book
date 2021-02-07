@@ -1,0 +1,635 @@
+GEO_ID,NAME,B01003_001E
+1600000US3651000,"New York city, New York",8336817
+1600000US0644000,"Los Angeles city, California",3979537
+1600000US1714000,"Chicago city, Illinois",2693959
+1600000US4835000,"Houston city, Texas",2316797
+1600000US0455000,"Phoenix city, Arizona",1680988
+1600000US4260000,"Philadelphia city, Pennsylvania",1584064
+1600000US4865000,"San Antonio city, Texas",1547250
+1600000US0666000,"San Diego city, California",1423852
+1600000US4819000,"Dallas city, Texas",1343565
+1600000US0668000,"San Jose city, California",1021786
+1600000US4805000,"Austin city, Texas",979263
+1600000US4827000,"Fort Worth city, Texas",913656
+1600000US1235000,"Jacksonville city, Florida",911528
+1600000US3918000,"Columbus city, Ohio",902073
+1600000US3712000,"Charlotte city, North Carolina",885707
+1600000US0667000,"San Francisco city, California",881549
+1600000US1836003,"Indianapolis city (balance), Indiana",870340
+1600000US5363000,"Seattle city, Washington",753655
+1600000US0820000,"Denver city, Colorado",727211
+1600000US1150000,"Washington city, District of Columbia",705749
+1600000US2507000,"Boston city, Massachusetts",694295
+1600000US4824000,"El Paso city, Texas",681729
+1600000US2622000,"Detroit city, Michigan",670052
+1600000US4752006,"Nashville-Davidson metropolitan government (balance), Tennessee",668580
+1600000US4055000,"Oklahoma City city, Oklahoma",655158
+1600000US4159000,"Portland city, Oregon",653467
+1600000US3240000,"Las Vegas city, Nevada",651297
+1600000US4748000,"Memphis city, Tennessee",651088
+1600000US2148006,"Louisville/Jefferson County metro government (balance), Kentucky",617630
+1600000US2404000,"Baltimore city, Maryland",593490
+1600000US5553000,"Milwaukee city, Wisconsin",590157
+1600000US3502000,"Albuquerque city, New Mexico",560504
+1600000US0477000,"Tucson city, Arizona",548082
+1600000US0627000,"Fresno city, California",531581
+1600000US0446000,"Mesa city, Arizona",517981
+1600000US0664000,"Sacramento city, California",513620
+1600000US1304000,"Atlanta city, Georgia",506804
+1600000US2938000,"Kansas City city, Missouri",495278
+1600000US0816000,"Colorado Springs city, Colorado",478215
+1600000US3137000,"Omaha city, Nebraska",478203
+1600000US3755000,"Raleigh city, North Carolina",474708
+1600000US1245000,"Miami city, Florida",467968
+1600000US0643000,"Long Beach city, California",462645
+1600000US5182000,"Virginia Beach city, Virginia",449974
+1600000US0653000,"Oakland city, California",433044
+1600000US2743000,"Minneapolis city, Minnesota",429605
+1600000US4075000,"Tulsa city, Oklahoma",401760
+1600000US1271000,"Tampa city, Florida",399690
+1600000US4804000,"Arlington city, Texas",398860
+1600000US2255000,"New Orleans city, Louisiana",390144
+1600000US2079000,"Wichita city, Kansas",389914
+1600000US0603526,"Bakersfield city, California",384159
+1600000US3916000,"Cleveland city, Ohio",380989
+1600000US0804000,"Aurora city, Colorado",379312
+1600000US0602000,"Anaheim city, California",350351
+1600000US1571550,"Urban Honolulu CDP, Hawaii",345055
+1600000US0669000,"Santa Ana city, California",332332
+1600000US0662000,"Riverside city, California",331369
+1600000US4817000,"Corpus Christi city, Texas",326590
+1600000US2146027,"Lexington-Fayette urban county, Kentucky",323152
+1600000US3231900,"Henderson city, Nevada",320190
+1600000US0675000,"Stockton city, California",312682
+1600000US7276770,"San Juan zona urbana, Puerto Rico",310323
+1600000US2758000,"St. Paul city, Minnesota",308096
+1600000US3915000,"Cincinnati city, Ohio",303954
+1600000US2965000,"St. Louis city, Missouri",300576
+1600000US4261000,"Pittsburgh city, Pennsylvania",300281
+1600000US3728000,"Greensboro city, North Carolina",296725
+1600000US3128000,"Lincoln city, Nebraska",289096
+1600000US0203000,"Anchorage municipality, Alaska",288000
+1600000US1253000,"Orlando city, Florida",287435
+1600000US0636770,"Irvine city, California",287387
+1600000US4858016,"Plano city, Texas",285849
+1600000US3451000,"Newark city, New Jersey",281999
+1600000US3719000,"Durham city, North Carolina",279447
+1600000US0613392,"Chula Vista city, California",274485
+1600000US3977000,"Toledo city, Ohio",272778
+1600000US1263000,"St. Petersburg city, Florida",265358
+1600000US4841464,"Laredo city, Texas",264069
+1600000US1825000,"Fort Wayne city, Indiana",262907
+1600000US3436000,"Jersey City city, New Jersey",262075
+1600000US0412000,"Chandler city, Arizona",261149
+1600000US5548000,"Madison city, Wisconsin",259673
+1600000US4845000,"Lubbock city, Texas",258870
+1600000US0465000,"Scottsdale city, Arizona",258064
+1600000US3260600,"Reno city, Nevada",255624
+1600000US3611000,"Buffalo city, New York",255300
+1600000US0427400,"Gilbert town, Arizona",254115
+1600000US0427820,"Glendale city, Arizona",252384
+1600000US3251800,"North Las Vegas city, Nevada",251984
+1600000US3775000,"Winston-Salem city, North Carolina",247951
+1600000US5116000,"Chesapeake city, Virginia",244835
+1600000US5157000,"Norfolk city, Virginia",242742
+1600000US0626000,"Fremont city, California",241117
+1600000US4837000,"Irving city, Texas",239779
+1600000US4829000,"Garland city, Texas",239539
+1600000US3254600,"Paradise CDP, Nevada",237899
+1600000US5103000,"Arlington CDP, Virginia",236842
+1600000US1230000,"Hialeah city, Florida",233362
+1600000US5167000,"Richmond city, Virginia",230436
+1600000US1608830,"Boise City city, Idaho",228965
+1600000US3268585,"Spring Valley CDP, Nevada",222372
+1600000US5367000,"Spokane city, Washington",222082
+1600000US2205000,"Baton Rouge city, Louisiana",220248
+1600000US5370000,"Tacoma city, Washington",217834
+1600000US0665000,"San Bernardino city, California",215780
+1600000US0648354,"Modesto city, California",215196
+1600000US0624680,"Fontana city, California",214557
+1600000US1921000,"Des Moines city, Iowa",214200
+1600000US0649270,"Moreno Valley city, California",213064
+1600000US0669088,"Santa Clarita city, California",212975
+1600000US3722920,"Fayetteville city, North Carolina",211674
+1600000US0107000,"Birmingham city, Alabama",210080
+1600000US0654652,"Oxnard city, California",208875
+1600000US3663000,"Rochester city, New York",205704
+1600000US1258715,"Port St. Lucie city, Florida",201858
+1600000US0137000,"Huntsville city, Alabama",201594
+1600000US2634000,"Grand Rapids city, Michigan",201004
+1600000US4967000,"Salt Lake City city, Utah",200546
+1600000US4827684,"Frisco city, Texas",200513
+1600000US3684000,"Yonkers city, New York",200362
+1600000US0630000,"Glendale city, California",199301
+1600000US0636000,"Huntington Beach city, California",199228
+1600000US4845744,"McKinney city, Texas",199174
+1600000US1703012,"Aurora city, Illinois",198827
+1600000US0151000,"Montgomery city, Alabama",198525
+1600000US3901000,"Akron city, Ohio",197597
+1600000US4803000,"Amarillo city, Texas",197365
+1600000US1304204,"Augusta-Richmond County consolidated government (balance), Georgia",197325
+1600000US0541000,"Little Rock city, Arkansas",197318
+1600000US0473000,"Tempe city, Arizona",195816
+1600000US1319000,"Columbus city, Georgia",195769
+1600000US2053775,"Overland Park city, Kansas",195483
+1600000US4830464,"Grand Prairie city, Texas",194522
+1600000US1210275,"Cape Coral city, Florida",194504
+1600000US1270600,"Tallahassee city, Florida",194503
+1600000US3271400,"Sunrise Manor CDP, Nevada",192968
+1600000US3223770,"Enterprise CDP, Nevada",191871
+1600000US0150000,"Mobile city, Alabama",188710
+1600000US4740000,"Knoxville city, Tennessee",187610
+1600000US2270000,"Shreveport city, Louisiana",186815
+1600000US2582000,"Worcester city, Massachusetts",185421
+1600000US0653896,"Ontario city, California",184999
+1600000US5374060,"Vancouver city, Washington",184452
+1600000US4659020,"Sioux Falls city, South Dakota",183799
+1600000US4714000,"Chattanooga city, Tennessee",182803
+1600000US4810768,"Brownsville city, Texas",182781
+1600000US1224000,"Fort Lauderdale city, Florida",182434
+1600000US4459000,"Providence city, Rhode Island",179875
+1600000US5156000,"Newport News city, Virginia",179225
+1600000US0659451,"Rancho Cucamonga city, California",177614
+1600000US0670098,"Santa Rosa city, California",176761
+1600000US0454050,"Peoria city, Arizona",175960
+1600000US0653322,"Oceanside city, California",175762
+1600000US0622020,"Elk Grove city, California",174791
+1600000US4164900,"Salem city, Oregon",174377
+1600000US1255775,"Pembroke Pines city, Florida",173591
+1600000US4123850,"Eugene city, Oregon",172614
+1600000US0629000,"Garden Grove city, California",171670
+1600000US3710740,"Cary town, North Carolina",171143
+1600000US0827425,"Fort Collins city, Colorado",170245
+1600000US0616350,"Corona city, California",169854
+1600000US2970000,"Springfield city, Missouri",167864
+1600000US2836000,"Jackson city, Mississippi",160532
+1600000US5101000,"Alexandria city, Virginia",159428
+1600000US0633000,"Hayward city, California",159202
+1600000US4715160,"Clarksville city, Tennessee",158152
+1600000US0843000,"Lakewood city, Colorado",157917
+1600000US0640130,"Lancaster city, California",157604
+1600000US0664224,"Salinas city, California",155473
+1600000US0655156,"Palmdale city, California",155065
+1600000US1232000,"Hollywood city, Florida",154802
+1600000US2567000,"Springfield city, Massachusetts",153599
+1600000US1349008,"Macon-Bibb County, Georgia",153159
+1600000US7206593,"Bayamón zona urbana, Puerto Rico",152843
+1600000US2036000,"Kansas City city, Kansas",152818
+1600000US0677000,"Sunnyvale city, California",152710
+1600000US0658072,"Pomona city, California",151696
+1600000US4839148,"Killeen city, Texas",151685
+1600000US0622804,"Escondido city, California",151619
+1600000US4856000,"Pasadena city, Texas",151230
+1600000US1751622,"Naperville city, Illinois",149640
+1600000US1738570,"Joliet city, Illinois",148806
+1600000US5305210,"Bellevue city, Washington",148145
+1600000US4751560,"Murfreesboro city, Tennessee",146912
+1600000US4848072,"Midland city, Texas",146042
+1600000US3457000,"Paterson city, New Jersey",145227
+1600000US1369000,"Savannah city, Georgia",144457
+1600000US0908000,"Bridgeport city, Connecticut",144365
+1600000US1765000,"Rockford city, Illinois",143707
+1600000US0680000,"Torrance city, California",143589
+1600000US4845384,"McAllen city, Texas",143258
+1600000US4513330,"Charleston city, South Carolina",143151
+1600000US3673000,"Syracuse city, New York",142310
+1600000US0471510,"Surprise city, Arizona",141674
+1600000US4819972,"Denton city, Texas",141522
+1600000US0662938,"Roseville city, California",141492
+1600000US0877290,"Thornton city, Colorado",141454
+1600000US1245975,"Miramar city, Florida",141196
+1600000US0656000,"Pasadena city, California",141040
+1600000US4847892,"Mesquite city, Texas",140795
+1600000US2052575,"Olathe city, Kansas",140557
+1600000US3921000,"Dayton city, Ohio",140402
+1600000US4813024,"Carrollton city, Texas",139272
+1600000US4876000,"Waco city, Texas",139245
+1600000US0653980,"Orange city, California",138661
+1600000US0628000,"Fullerton city, California",138638
+1600000US4983470,"West Valley City city, Utah",135255
+1600000US1239925,"Lehigh Acres CDP, Florida",134667
+1600000US0682954,"Visalia city, California",134608
+1600000US5135000,"Hampton city, Virginia",134510
+1600000US1225175,"Gainesville city, Florida",133990
+1600000US2684000,"Warren city, Michigan",133944
+1600000US1214400,"Coral Springs city, Florida",133765
+1600000US7214290,"Carolina zona urbana, Puerto Rico",133757
+1600000US1912000,"Cedar Rapids city, Iowa",133563
+1600000US4863500,"Round Rock city, Texas",133435
+1600000US2676460,"Sterling Heights city, Michigan",132429
+1600000US5335415,"Kent city, Washington",132320
+1600000US4856348,"Pearland city, Texas",131448
+1600000US4516000,"Columbia city, South Carolina",131323
+1600000US2250115,"Metairie CDP, Louisiana",130427
+1600000US0669084,"Santa Clara city, California",130371
+1600000US0952000,"New Haven city, Connecticut",130257
+1600000US0973000,"Stamford city, Connecticut",129636
+1600000US0616000,"Concord city, California",129320
+1600000US3421000,"Elizabeth city, New Jersey",129215
+1600000US0678582,"Thousand Oaks city, California",126815
+1600000US1303440,"Athens-Clarke County unified government (balance), Georgia",126718
+1600000US2240735,"Lafayette city, Louisiana",126199
+1600000US0672016,"Simi Valley city, California",125594
+1600000US2071000,"Topeka city, Kansas",125318
+1600000US4052500,"Norman city, Oklahoma",124867
+1600000US3825700,"Fargo city, North Dakota",123736
+1600000US3774440,"Wilmington city, North Carolina",123728
+1600000US2915670,"Columbia city, Missouri",123204
+1600000US4801000,"Abilene city, Texas",123201
+1600000US4853388,"Odessa city, Texas",123163
+1600000US4550875,"North Charleston city, South Carolina",122400
+1600000US0682590,"Victorville city, California",122399
+1600000US0937000,"Hartford city, Connecticut",122107
+1600000US0681666,"Vallejo city, California",121692
+1600000US4202000,"Allentown city, Pennsylvania",121441
+1600000US0606000,"Berkeley city, California",121353
+1600000US4861796,"Richardson city, Texas",121331
+1600000US0803455,"Arvada city, Colorado",121095
+1600000US2603000,"Ann Arbor city, Michigan",119976
+1600000US0620802,"East Los Angeles CDP, California",119890
+1600000US2511000,"Cambridge city, Massachusetts",118925
+1600000US2754880,"Rochester city, Minnesota",118924
+1600000US4870808,"Sugar Land city, Texas",118500
+1600000US4815976,"College Station city, Texas",117911
+1600000US1822000,"Evansville city, Indiana",117557
+1600000US4872656,"The Woodlands CDP, Texas",117270
+1600000US0623182,"Fairfield city, California",117136
+1600000US1212875,"Clearwater city, Florida",116938
+1600000US1208150,"Brandon CDP, Florida",116829
+1600000US4807000,"Beaumont city, Texas",116822
+1600000US2646000,"Lansing city, Michigan",116677
+1600000US2935000,"Independence city, Missouri",116673
+1600000US4962470,"Provo city, Utah",116616
+1600000US4982950,"West Jordan city, Utah",116482
+1600000US0650076,"Murrieta city, California",116223
+1600000US1254000,"Palm Bay city, Florida",115560
+1600000US0622230,"El Monte city, California",115477
+1600000US0611194,"Carlsbad city, California",115386
+1600000US0678120,"Temecula city, California",114751
+1600000US0614218,"Clovis city, California",114582
+1600000US1772000,"Springfield city, Illinois",114171
+1600000US1652120,"Meridian city, Idaho",114161
+1600000US1268350,"Spring Hill CDP, Florida",113787
+1600000US0883835,"Westminster city, Colorado",113179
+1600000US0616532,"Costa Mesa city, California",113011
+1600000US3345140,"Manchester city, New Hampshire",112658
+1600000US0862000,"Pueblo city, Colorado",112357
+1600000US1238250,"Lakeland city, Florida",112142
+1600000US1258050,"Pompano Beach city, Florida",112122
+1600000US1276600,"West Palm Beach city, Florida",111952
+1600000US3731400,"High Point city, North Carolina",111756
+1600000US0602252,"Antioch city, California",111506
+1600000US5322640,"Everett city, Washington",111489
+1600000US0619766,"Downey city, California",111127
+1600000US2537000,"Lowell city, Massachusetts",110990
+1600000US0812815,"Centennial city, Colorado",110911
+1600000US1723074,"Elgin city, Illinois",110889
+1600000US4009050,"Broken Arrow city, Oklahoma",110715
+1600000US0660620,"Richmond city, California",110575
+1600000US1245060,"Miami Gardens city, Florida",110003
+1600000US1759000,"Peoria city, Illinois",109936
+1600000US3006550,"Billings city, Montana",109577
+1600000US0637692,"Jurupa Valley city, California",109525
+1600000US1368516,"Sandy Springs city, Georgia",109466
+1600000US4131250,"Gresham city, Oregon",109379
+1600000US4134100,"Hillsboro city, Oregon",109120
+1600000US0665042,"San Buenaventura (Ventura) city, California",109108
+1600000US0832155,"Greeley city, Colorado",108650
+1600000US4842508,"Lewisville city, Texas",108562
+1600000US0602553,"Arden-Arcade CDP, California",108227
+1600000US0636546,"Inglewood city, California",108170
+1600000US0980000,"Waterbury city, Connecticut",107577
+1600000US0669196,"Santa Maria city, California",107273
+1600000US4874144,"Tyler city, Texas",106991
+1600000US4841980,"League City city, Texas",106730
+1600000US7263820,"Ponce zona urbana, Puerto Rico",106546
+1600000US1216475,"Davie town, Florida",106310
+1600000US0617918,"Daly City city, California",106294
+1600000US0807850,"Boulder city, Colorado",105670
+1600000US4801924,"Allen city, Texas",105630
+1600000US0684200,"West Covina city, California",105114
+1600000US3268400,"Sparks city, Nevada",105011
+1600000US2419125,"Columbia CDP, Maryland",104726
+1600000US4879000,"Wichita Falls city, Texas",104677
+1600000US5531000,"Green Bay city, Wisconsin",104565
+1600000US0668252,"San Mateo city, California",104438
+1600000US0652526,"Norwalk city, California",103946
+1600000US0660466,"Rialto city, California",103540
+1600000US3539380,"Las Cruces city, New Mexico",103436
+1600000US0613014,"Chico city, California",103315
+1600000US0621712,"El Cajon city, California",102699
+1600000US1871000,"South Bend city, Indiana",102602
+1600000US0608954,"Burbank city, California",102508
+1600000US1810342,"Carmel city, Indiana",101918
+1600000US5357745,"Renton city, Washington",101747
+1600000US0682996,"Vista city, California",101639
+1600000US1919000,"Davenport city, Iowa",101591
+1600000US4822660,"Edinburg city, Texas",101168
+1600000US0177256,"Tuscaloosa city, Alabama",101133
+1600000US5367167,"Spokane Valley city, Washington",101075
+1600000US0464210,"San Tan Valley CDP, Arizona",100732
+1600000US0681554,"Vacaville city, California",100669
+1600000US4105800,"Bend city, Oregon",100430
+1600000US5539225,"Kenosha city, Wisconsin",99933
+1600000US0836410,"Highlands Ranch CDP, Colorado",99810
+1600000US1207300,"Boca Raton city, Florida",99795
+1600000US2941348,"Lee's Summit city, Missouri",99290
+1600000US1656260,"Nampa city, Idaho",99276
+1600000US3563460,"Rio Rancho city, New Mexico",99159
+1600000US1372122,"South Fulton city, Georgia",99152
+1600000US5168000,"Roanoke city, Virginia",99143
+1600000US4105350,"Beaverton city, Oregon",99040
+1600000US1272145,"Town 'n' Country CDP, Florida",98550
+1600000US0485540,"Yuma city, Arizona",98296
+1600000US2038900,"Lawrence city, Kansas",98196
+1600000US4864472,"San Angelo city, Texas",98193
+1600000US4957300,"Orem city, Utah",97839
+1600000US1260950,"Riverview CDP, Florida",97034
+1600000US0668196,"San Marcos city, California",96673
+1600000US0845970,"Longmont city, Colorado",96672
+1600000US1200410,"Alafaya CDP, Florida",96528
+1600000US3601000,"Albany city, New York",96460
+1600000US4967440,"Sandy city, Utah",96385
+1600000US3714100,"Concord city, North Carolina",96342
+1600000US1823278,"Fishers city, Indiana",96301
+1600000US5323515,"Federal Way city, Washington",96297
+1600000US0633434,"Hesperia city, California",95753
+1600000US2509000,"Brockton city, Massachusetts",95705
+1600000US0615044,"Compton city, California",95601
+1600000US2629000,"Flint city, Michigan",95541
+1600000US4224000,"Erie city, Pennsylvania",95537
+1600000US2545000,"New Bedford city, Massachusetts",95348
+1600000US1269700,"Sunrise city, Florida",95153
+1600000US1256825,"Pine Hills CDP, Florida",94802
+1600000US0680238,"Tracy city, California",94751
+1600000US1367284,"Roswell city, Georgia",94747
+1600000US0646842,"Menifee city, California",94738
+1600000US1257425,"Plantation city, Florida",94605
+1600000US2555745,"Quincy city, Massachusetts",94468
+1600000US5164000,"Portsmouth city, Virginia",94398
+1600000US0648256,"Mission Viejo city, California",94375
+1600000US0613210,"Chino city, California",94352
+1600000US2537490,"Lynn city, Massachusetts",94300
+1600000US4023200,"Edmond city, Oklahoma",94058
+1600000US2621000,"Dearborn city, Michigan",93927
+1600000US2649000,"Livonia city, Michigan",93664
+1600000US5380010,"Yakima city, Washington",93638
+1600000US0673080,"South Gate city, California",93433
+1600000US3728080,"Greenville city, North Carolina",93391
+1600000US5335940,"Kirkland city, Washington",93027
+1600000US4041850,"Lawton city, Oklahoma",93026
+1600000US3702140,"Asheville city, North Carolina",92859
+1600000US1217200,"Deltona city, Florida",92752
+1600000US0659920,"Redding city, California",92598
+1600000US5305280,"Bellingham city, Washington",92327
+1600000US5176432,"Suffolk city, Virginia",92108
+1600000US3473110,"Toms River CDP, New Jersey",91785
+1600000US0636448,"Indio city, California",91756
+1600000US4548535,"Mount Pleasant town, South Carolina",91668
+1600000US0611530,"Carson city, California",91407
+1600000US0669070,"Santa Barbara city, California",91357
+1600000US4816432,"Conroe city, Texas",91081
+1600000US4850820,"New Braunfels city, Texas",90710
+1600000US0684550,"Westminster city, California",90642
+1600000US0670000,"Santa Monica city, California",90401
+1600000US0641992,"Livermore city, California",90188
+1600000US1254200,"Palm Coast city, Florida",89797
+1600000US4965330,"St. George city, Utah",89586
+1600000US2523000,"Fall River city, Massachusetts",89534
+1600000US3350260,"Nashua city, New Hampshire",89356
+1600000US1712385,"Champaign city, Illinois",88919
+1600000US1245025,"Miami Beach city, Florida",88885
+1600000US0955990,"Norwalk city, Connecticut",88826
+1600000US0668084,"San Leandro city, California",88822
+1600000US2954074,"O'Fallon city, Missouri",88659
+1600000US2545560,"Newton city, Massachusetts",88411
+1600000US4263624,"Reading city, Pennsylvania",88373
+1600000US0404720,"Avondale city, Arizona",87917
+1600000US0524550,"Fort Smith city, Arkansas",87895
+1600000US0613588,"Citrus Heights city, California",87792
+1600000US4955980,"Ogden city, Utah",87764
+1600000US0523290,"Fayetteville city, Arkansas",87585
+1600000US1224125,"Fort Myers city, Florida",87111
+1600000US0428380,"Goodyear city, Arizona",86843
+1600000US1805860,"Bloomington city, Indiana",86630
+1600000US4810912,"Bryan city, Texas",86268
+1600000US1779293,"Waukegan city, Illinois",86262
+1600000US0632548,"Hawthorne city, California",86062
+1600000US0660102,"Redwood City city, California",85926
+1600000US0135896,"Hoover city, Alabama",85772
+1600000US2717000,"Duluth city, Minnesota",85617
+1600000US0639496,"Lake Forest city, California",85529
+1600000US1271625,"The Villages CDP, Florida",85377
+1600000US0633182,"Hemet city, California",85341
+1600000US0685292,"Whittier city, California",85087
+1600000US3413690,"Clifton city, New Jersey",85053
+1600000US1239425,"Largo city, Florida",84957
+1600000US2706616,"Bloomington city, Minnesota",84935
+1600000US3570500,"Santa Fe city, New Mexico",84700
+1600000US0918430,"Danbury city, Connecticut",84692
+1600000US1342425,"Johns Creek city, Georgia",84590
+1600000US0651182,"Newport Beach city, California",84522
+1600000US5335275,"Kennewick city, Washington",84354
+1600000US4848768,"Mission city, Texas",84336
+1600000US0647766,"Milpitas city, California",84184
+1600000US2680700,"Troy city, Michigan",84087
+1600000US0613214,"Chino Hills city, California",83843
+1600000US0600884,"Alhambra city, California",83732
+1600000US2432025,"Germantown CDP, Maryland",83707
+1600000US0646898,"Merced city, California",83668
+1600000US1973335,"Sioux City city, Iowa",83288
+1600000US2472450,"Silver Spring CDP, Maryland",83247
+1600000US3474000,"Trenton city, New Jersey",83211
+1600000US4826232,"Flower Mound town, Texas",83205
+1600000US4727740,"Franklin city, Tennessee",83096
+1600000US4147000,"Medford city, Oregon",83084
+1600000US0645484,"Manteca city, California",83037
+1600000US1243975,"Melbourne city, Florida",83030
+1600000US0649670,"Mountain View city, California",82726
+1600000US4804462,"Atascocita CDP, Texas",82572
+1600000US4843888,"Longview city, Texas",82461
+1600000US5147672,"Lynchburg city, Virginia",82168
+1600000US5303180,"Auburn city, Washington",82021
+1600000US0657792,"Pleasanton city, California",81794
+1600000US0608786,"Buena Park city, California",81783
+1600000US2686000,"Westland city, Michigan",81524
+1600000US4419180,"Cranston city, Rhode Island",81459
+1600000US2562535,"Somerville city, Massachusetts",81358
+1600000US0624638,"Folsom city, California",81324
+1600000US1216725,"Deerfield Beach city, Florida",81070
+1600000US4474300,"Warwick city, Rhode Island",81006
+1600000US2481175,"Waldorf CDP, Maryland",80971
+1600000US1714351,"Cicero town, Illinois",80801
+1600000US2627440,"Farmington Hills city, Michigan",80597
+1600000US0566080,"Springdale city, Arkansas",80454
+1600000US1236100,"Kendall CDP, Florida",80410
+1600000US2707966,"Brooklyn Park city, Minnesota",80401
+1600000US2534550,"Lawrence city, Massachusetts",80038
+1600000US2751730,"Plymouth city, Minnesota",79785
+1600000US0407940,"Buckeye city, Arizona",79624
+1600000US4829336,"Georgetown city, Texas",79609
+1600000US0680854,"Tustin city, California",79346
+1600000US0639892,"Lakewood city, California",79302
+1600000US0656700,"Perris city, California",79294
+1600000US4857200,"Pharr city, Texas",79115
+1600000US0846465,"Loveland city, Colorado",78871
+1600000US1207875,"Boynton Beach city, Florida",78690
+1600000US3650617,"New Rochelle city, New York",78568
+1600000US4872176,"Temple city, Texas",78437
+1600000US2241155,"Lake Charles city, Louisiana",78395
+1600000US0535710,"Jonesboro city, Arkansas",78380
+1600000US0650258,"Napa city, California",78130
+1600000US3961000,"Parma city, Ohio",78093
+1600000US4943660,"Layton city, Utah",78008
+1600000US0600562,"Alameda city, California",77630
+1600000US4652980,"Rapid City city, South Dakota",77496
+1600000US1380508,"Warner Robins city, Georgia",77421
+1600000US4813552,"Cedar Park city, Texas",77419
+1600000US1706613,"Bloomington city, Illinois",77323
+1600000US3725580,"Gastonia city, North Carolina",77277
+1600000US0681344,"Upland city, California",77123
+1600000US4806128,"Baytown city, Texas",76895
+1600000US5566000,"Racine city, Wisconsin",76747
+1600000US4269000,"Scranton city, Pennsylvania",76651
+1600000US4970850,"South Jordan city, Utah",76607
+1600000US0604982,"Bellflower city, California",76445
+1600000US2642160,"Kalamazoo city, Michigan",76201
+1600000US4206088,"Bethlehem city, Pennsylvania",76044
+1600000US0668378,"San Ramon city, California",75984
+1600000US2688940,"Wyoming city, Michigan",75660
+1600000US4848804,"Missouri City city, Texas",75543
+1600000US3050200,"Missoula city, Montana",75527
+1600000US1831000,"Hammond city, Indiana",75517
+1600000US5502375,"Appleton city, Wisconsin",75382
+1600000US0603666,"Baldwin Park city, California",75240
+1600000US1938595,"Iowa City city, Iowa",75149
+1600000US0659444,"Rancho Cordova city, California",75086
+1600000US2964550,"St. Joseph city, Missouri",75053
+1600000US0423620,"Flagstaff city, Arizona",75044
+1600000US4561405,"Rock Hill city, South Carolina",75041
+1600000US2432650,"Glen Burnie CDP, Maryland",74956
+1600000US5353545,"Pasco city, Washington",74846
+1600000US4846452,"Mansfield city, Texas",74841
+1600000US3807200,"Bismarck city, North Dakota",74632
+1600000US2669035,"Rochester Hills city, Michigan",74509
+1600000US2524960,"Framingham city, Massachusetts",74429
+1600000US0681204,"Union City city, California",74099
+1600000US3615000,"Cheektowaga CDP, New York",74058
+1600000US5121088,"Dale City CDP, Virginia",73918
+1600000US0680812,"Turlock city, California",73629
+1600000US3410000,"Camden city, New Jersey",73560
+1600000US1724582,"Evanston city, Illinois",73470
+1600000US0602364,"Apple Valley town, California",73464
+1600000US1707133,"Bolingbrook village, Illinois",73304
+1600000US1768003,"Schaumburg village, Illinois",72862
+1600000US2771428,"Woodbury city, Minnesota",72813
+1600000US1236950,"Kissimmee city, Florida",72701
+1600000US2674900,"Southfield city, Michigan",72700
+1600000US1840788,"Lafayette city, Indiana",72633
+1600000US2740166,"Maple Grove city, Minnesota",72616
+1600000US2426000,"Ellicott City CDP, Maryland",72605
+1600000US0657456,"Pittsburg city, California",72569
+1600000US1257900,"Poinciana CDP, Florida",72545
+1600000US0950370,"New Britain city, Connecticut",72491
+1600000US3734200,"Jacksonville city, North Carolina",72438
+1600000US5584250,"Waukesha city, Wisconsin",72308
+1600000US2430325,"Frederick city, Maryland",72237
+1600000US4454640,"Pawtucket city, Rhode Island",72108
+1600000US5357535,"Redmond city, Washington",71941
+1600000US1239550,"Lauderhill city, Florida",71863
+1600000US1702154,"Arlington Heights village, Illinois",71825
+1600000US2829700,"Gulfport city, Mississippi",71701
+1600000US0659962,"Redlands city, California",71516
+1600000US1276582,"Weston city, Florida",71164
+1600000US2964082,"St. Charles city, Missouri",71009
+1600000US0410670,"Casas Adobes CDP, Arizona",70840
+1600000US1827000,"Gary city, Indiana",70778
+1600000US1249675,"North Port city, Florida",70722
+1600000US4852356,"North Richland Hills city, Texas",70655
+1600000US1301052,"Albany city, Georgia",70643
+1600000US4530850,"Greenville city, South Carolina",70633
+1600000US2108902,"Bowling Green city, Kentucky",70542
+1600000US0809280,"Broomfield city, Colorado",70465
+1600000US3912000,"Canton city, Ohio",70445
+1600000US5343955,"Marysville city, Washington",70306
+1600000US1077580,"Wilmington city, Delaware",70164
+1600000US0683346,"Walnut Creek city, California",70161
+1600000US0624477,"Florence-Graham CDP, California",70149
+1600000US7210334,"Caguas zona urbana, Puerto Rico",69960
+1600000US0644574,"Lynwood city, California",69902
+1600000US0610046,"Camarillo city, California",69887
+1600000US4944320,"Lehi city, Utah",69742
+1600000US3456550,"Passaic city, New Jersey",69694
+1600000US1718823,"Decatur city, Illinois",69553
+1600000US1232275,"Homestead city, Florida",69526
+1600000US1217100,"Delray Beach city, Florida",69449
+1600000US0618100,"Davis city, California",69420
+1600000US0639486,"Lake Elsinore city, California",69283
+1600000US1216525,"Daytona Beach city, Florida",69197
+1600000US5522300,"Eau Claire city, Wisconsin",68936
+1600000US0662364,"Rocklin city, California",68815
+1600000US0560410,"Rogers city, Arkansas",68674
+1600000US1224562,"Fountainebleau CDP, Florida",68619
+1600000US4842016,"Leander city, Texas",68583
+1600000US0121184,"Dothan city, Alabama",68522
+1600000US0812415,"Castle Rock town, Colorado",68494
+1600000US2208920,"Bossier City city, Louisiana",68147
+1600000US2467675,"Rockville city, Maryland",68085
+1600000US2431175,"Gaithersburg city, Maryland",67982
+1600000US3474630,"Union City city, New Jersey",67977
+1600000US1851876,"Muncie city, Indiana",67967
+1600000US4738320,"Johnson City city, Tennessee",67859
+1600000US0673262,"South San Francisco city, California",67781
+1600000US1983910,"West Des Moines city, Iowa",67696
+1600000US0686832,"Yorba Linda city, California",67645
+1600000US0515190,"Conway city, Arkansas",67640
+1600000US0642202,"Lodi city, California",67581
+1600000US1757225,"Palatine village, Illinois",67436
+1600000US1902305,"Ankeny city, Iowa",67347
+1600000US3649121,"Mount Vernon city, New York",67330
+1600000US1982425,"Waterloo city, Iowa",67326
+1600000US2735180,"Lakeville city, Minnesota",67326
+1600000US1301696,"Alpharetta city, Georgia",67208
+1600000US4737640,"Jackson city, Tennessee",67187
+1600000US5560500,"Oshkosh city, Wisconsin",67010
+1600000US0686972,"Yuba City city, California",67009
+1600000US4875428,"Victoria city, Texas",66920
+1600000US4863572,"Rowlett city, Texas",66805
+1600000US0611390,"Carmichael CDP, California",66800
+1600000US0660018,"Redondo Beach city, California",66757
+1600000US2756896,"St. Cloud city, Minnesota",66741
+1600000US1270675,"Tamarac city, Florida",66712
+1600000US5114440,"Centreville CDP, Virginia",66457
+1600000US0639248,"Laguna Niguel city, California",66384
+1600000US2717288,"Eagan city, Minnesota",66376
+1600000US2239475,"Kenner city, Louisiana",66355
+1600000US1901855,"Ames city, Iowa",66258
+1600000US0103076,"Auburn city, Alabama",66254
+1600000US2360545,"Portland city, Maine",66218
+1600000US5365922,"South Hill CDP, Washington",66020
+1600000US1258350,"Port Charlotte CDP, Florida",65951
+1600000US0550450,"North Little Rock city, Arkansas",65899
+1600000US5361115,"Sammamish city, Washington",65880
+1600000US0645022,"Madera city, California",65859
+1600000US2064500,"Shawnee city, Kansas",65810
+1600000US1235875,"Jupiter town, Florida",65797
+1600000US1271569,"The Hammocks CDP, Florida",65765
+1600000US1217935,"Doral city, Florida",65746
+1600000US2706382,"Blaine city, Minnesota",65612
+1600000US0680644,"Tulare city, California",65508
+1600000US3988000,"Youngstown city, Ohio",65479
+1600000US1275812,"Wellington village, Florida",65389
+1600000US0655282,"Palo Alto city, California",65365
+1600000US3665508,"Schenectady city, New York",65272
+1600000US4857176,"Pflugerville city, Texas",65124
+1600000US4832372,"Harlingen city, Texas",65033
+1600000US3403580,"Bayonne city, New Jersey",64903
+1600000US0669112,"Santa Cruz city, California",64605
+1600000US0665084,"San Clemente city, California",64562
+1600000US3419390,"East Orange city, New Jersey",64357
+1600000US3944856,"Lorain city, Ohio",63866
+1600000US1854180,"Noblesville city, Indiana",63325
+1600000US1770122,"Skokie village, Illinois",62691
+1600000US7232522,"Guaynabo zona urbana, Puerto Rico",62550
+1600000US1275875,"Wesley Chapel CDP, Florida",62516
+1600000US3608026,"Brentwood CDP, New York",61930

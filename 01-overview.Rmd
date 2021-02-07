@@ -1,64 +1,109 @@
-# An Open Data Primer {#overview}
+# Overview {#overview}
 
 ## What is Open Data?
 
 > "Open data is information or content made freely available to use and redistribute, subject only to the requirement to attribute it to the source."
 >
-> --- Gartner^[@gartner_opendata_def]
+> --- Gartner^[@gartner_opendata]
 
 ### Topics
 
-Popular data topics include emergency calls for service, budget, revenue, expenditures, property tax, permits, food inspections, government service calls, lost and found pets, crime incidents, jail bookings, voting registration and election results. When this data includes date, time and location, it can be valuable for performance management and refining staffing for services. When it includes demographic information it makes it possible to analyze differences in data by gender, race and ethnicity, and age and can help inform where there should be more outreach and consider mode of communication that may be most effective.
+Popular data topics include emergency calls for service, budget, revenue, expenditures, property tax, building permits, food inspections, service requests, lost and found pets, crime incidents, jail bookings, voting registration and election results. When this data includes date, time and location, it can be valuable for performance management and informing staffing decisions. When it includes demographic information it makes it possible to analyze differences in data by gender, ethnicity and age and guide outreach and communication methods.
 
 ### Databases
 
 Data is commonly sourced from the transactional systems used to manage government services from relational databases.
-Spatial data of boundaries and locations of places exist in geodatabases as well as on open data platforms so that non-cartographers within governments and citizens may find where services exist on a map. While transactional data may have a geographic component like an address, it's no easy feat to join non-spatial data with spatial data and results in multiple open data sites. Date and time features in transactional data adds an extra twist as multiple years of data requires some consideration before joining to maps as boundaries and locations may change over time or even completely disappear. While it may make sense to have versions of maps by year, the delivery of open data on web servers would be compromised by needing to load a new map as users toggle through different years of data. In my experience when presenting data with a map, the most recent spatial boundaries and point location are used for all years of data to ensure zippy user experience. 
+Spatial data of boundaries and locations of places exist in geodatabases as well as on Open Data platforms so that non-cartographers within governments and citizens may find where services exist on a map. While transactional data may have a geographic component like an address, it's no easy feat to join non-spatial data with spatial data. Date and time features in transactional data adds an extra twist as multiple years of data requires some consideration before joining to maps as boundaries and locations may change over time or even completely disappear. While it may make sense to have versions of maps by year, the delivery of Open Data on web servers may be compromised by needing to load a new map as users toggle through different years of data. In my experience when presenting data with a map, the most recent spatial boundaries and point location are used for all years of data to ensure optimal user experience. 
 
 ### Files
 
-Data is also found in spreadsheets and text files when ad-hoc or short term programs may be created to support some service or business process that may not warrant the involvement of information technology initially. There may not be budget to support the purchase or internal development of software. Department analysts, scientists and administrators may choose to spin up a solution with the business software or statistical programming language they are already experts at to enable the success of these programs and efficiently deliver needed services to internal audiences and the public. Negative consequences from these ventures may only arise when there is a need for reporting data or if files are owned by an individual who leaves their job without saving files to a shared network drive.
+Data is also found in spreadsheets and text files when ad-hoc or short term programs may be created to support some service or business process that may not warrant the involvement of the Information Technology team initially. There may not be budget to support the purchase or internal development of software. Department analysts, scientists and administrators may choose to spin up a solution with the business software or statistical programming language they are already experts at to enable the success of these programs and efficiently deliver needed services to internal audiences and the public. Negative consequences from these ventures may only arise when there is a need for reporting data or if files are owned by an individual who leaves their job without saving files to a shared network drive.
 
 ### Reports
 
-Departments may publish annual reports to share what they accomplished that year that contain tables and charts of the data they use to measure their performance or as a benchmark against peers or some standard. This is the perfect data to include in performance management which often is made up of annual measures.
+Departments may publish annual reports to share what they accomplished that year that contain tables and charts of the data they use to measure their performance or as a benchmark against peers or some standard. This is the perfect data to include in performance management which often is made up of annual measures. Reports may be constructed using text editors, Business Intelligence tools or programming languages where data, visualizations and narrative are woven together before exporting as a pdf, document, slide deck or website.
 
 ### Dashboards
 
-Departments with a need for reporting data frequently may purchase Business Intelligence and Visualization tools that are powerful and intuitive. These tools connect to many data sources including spreadsheets, text files, web page, pdfs and even from copy/paste operations into a table. Depending on security policies, dashboards published publicly may enable the download of the data presented in it and occasionally be the sole source of some data.
+Departments with a need for reporting data frequently may purchase Business Intelligence and Visualization tools that are powerful and intuitive. These tools connect to many data sources including spreadsheets, text files, web page, pdfs and even from copy/paste operations into a table. Depending on security policies, dashboards published publicly may enable the download of the data presented in it and at times be the sole source of some data to the public and other departments.
 
 ## How is it used?
 
-### Organizational Goals
+### Organizational Motivations
 
-* Public information
-* Transparency
-* Fine tune staffing and location
-* Equity and performance measurement
-* Insights and data mining
+While government employees may have access to department level data, gaining access to data from other departments may be difficult, even when content is not protected or confidential. By opening up high value departmental datasets, governments help break down silos internally and make it easy to share with the public. When an Open Data portal exists, it is also can be used to publish data requested from Public Information Requests especially for popular data and reduce the overhead required by manually filling these requests repeatedly.
 
-### Civic
+The software used by departments to manage their operations may not have extensive reporting features and require users to develop their own reports through queries to the underlying database or periodic exports of data files at the convenience of system administrators. Open Data platforms can be used as destination for automated extracts and provide users visualizations to quickly examine their data and gain operation insights. Viewing data on a map or over time makes it possible to fine tune staffing decisions. Datasets on Open Data can also be accessed programatically through APIs (Application Programming Interface) which enable users to use their favorite tools like Excel, Power BI, and Tableau with the ability to refresh data as needed.
 
-* Apps
-* Contests
+Informational Technology teams can leverage Open Data to offset downloads from internal server infrastructure to handle the traffic caused by applications built by civic developers relying on transit, public safety and other large datasets.
 
-## Who uses it?
+## Who Use Open Data?
 
-* Producer organizations
-* Community users (civic)
-* Academic
+### Governments
 
-### Personas
+Specific agencies may be procure Open Data initially to provide transparency around their programs and upon their success, expand to other departments. As data is automated, departments can create performance measures and gather analytics around their operations. Population data may be used to apply for grants and funding. Communications officers get the opportunity to share stories using data and help frame conversations around government spending, investments and priorities with the public. Instead of creating static slide decks and files to present at council meetings, data dashboards may be presented connected to the latest data.
 
-* Alex the Analyst
-* Pat the Performance Manager
-* Sam the Scientist
+Of the top 20 cities in population as of the 2019 Census American Community Survey^[@acs2019], 19 share city data through a portal.^[Jacksonville does have a site with police datasets and maps available on GIS site. https://transparency.jaxsheriff.org/, https://maps.coj.net/jaxgis/].
 
-<!--There are many people and roles across organizations that require data. Here are some personas based on individuals I have met and worked with to get the data they need to perform their jobs. Please note that the names are made up and intended to reflect any specific gender.
+| City | State | Population | Open Data Site | 
+|:--:|:--:|:--:|:--:|
+| New York  | New York | 	8,336,817 | [opendata.cityofnewyork.us](https://opendata.cityofnewyork.us/) |
+| Los Angeles | California |	3,979,537 | [data.lacity.org](https://data.lacity.org/) |
+| Chicago | Illinois |	2,693,959 | [data.cityofchicago.org](https://data.cityofchicago.org/) |
+| Houston | Texas	| 2,316,797 | [cohgis-mycity.opendata.arcgis.com](https://cohgis-mycity.opendata.arcgis.com/) |
+| Phoenix | Arizona	| 1,680,988 | [phoenixopendata.com](https://www.phoenixopendata.com/) |
+| Philadelphia | Pennsylvania	| 1,584,064 | [opendataphilly.org](https://www.opendataphilly.org/) |
+| San Antonio | Texas	| 1,547,250 | [data.sanantonio.gov](https://data.sanantonio.gov/) |
+| San Diego | California	| 1,423,852 | [data.sandiego.gov](https://data.sandiego.gov/) |
+| Dallas city | Texas | 1,343,565 | [dallasopendata.com](https://www.dallasopendata.com/) |
+| San Jose | California	| 1,021,786 | [data.sanjoseca.gov](https://data.sanjoseca.gov/) |
+| Austin | Texas | 979,263 | [data.austintexas.gov](https://data.austintexas.gov/) |
+| Fort Worth | Texas | 913,656 | [data.fortworthtexas.gov](https://data.fortworthtexas.gov/) |
+| Jacksonville | Florida	| 911,528 | []() |
+| Columbus | Ohio	| 902,073 | [opendata.columbus.gov](https://opendata.columbus.gov/) |
+| Charlotte | North Carolina | 885,707 | [data.charlottenc.gov](https://data.charlottenc.gov/) |
+| San Francisco | California | 881,549 | [datasf.org/opendata](https://datasf.org/opendata/) |
+| Indianapolis | Indiana	| 870,340  | [data.indy.gov](https://data.indy.gov/) |
+| Seattle | Washington	| 753,655  | [data.seattle.gov](https://data.seattle.gov/) |
+| Denver | Colorado	| 727,211  | [denvergov.org/opendata](https://www.denvergov.org/opendata) |
+| Washington | District of Columbia	| 705,749  | [opendata.dc.gov](https://opendata.dc.gov/) |
+Table: Open Data portals for top 20 populated US cities
 
-* E... the Executive
+<!--
+#### Top Counties
 
-* Jamie the ...
-* Dee the Data Engineer
-* Chris the ...
---> 
+| County | State | Population | Open Data Site | 
+|:--:|:--:|:--:|:--:|
+| Los Angeles County | California	| 10,039,107 | [data.lacounty.gov](https://data.lacounty.gov/) |
+| Cook County | Illinois	| 5,150,233 | [datacatalog.cookcountyil.gov](https://datacatalog.cookcountyil.gov/) |
+| Harris County | Texas	| 4,713,325 | [geo-harriscounty.opendata.arcgis.com](https://geo-harriscounty.opendata.arcgis.com/) |
+| Maricopa County | Arizona | 4,485,414 | [data-maricopa.opendata.arcgis.com](https://data-maricopa.opendata.arcgis.com/) |
+| San Diego County | California	| 3,338,330 | [sandiegocounty.gov/content/sdc/data.html](https://www.sandiegocounty.gov/content/sdc/data.html) |
+| Orange County | California	| 3,175,692 | [data-ocpw.opendata.arcgis.com](https://data-ocpw.opendata.arcgis.com/) |
+| Miami-Dade County | Florida	| 2,716,940 | [gis-mdc.opendata.arcgis.com](https://gis-mdc.opendata.arcgis.com/) |
+| Dallas County | Texas | 2,635,516 | [data.kingcounty.gov](https://data.kingcounty.gov/) |
+| Kings County | New York	| 2,559,903 | []() |
+| Riverside County | California | 2,470,546 | [data.countyofriverside.us](https://data.countyofriverside.us/) |
+| Clark County | Nevada	| 2,266,715 | []() |
+| Queens County | New York	| 2,253,858 | []() |
+| King County  | Washington	| 2,252,782 | []() |
+| San Bernardino County | California	| 2,180,085 | []() |
+| Tarrant County | Texas	| 2,102,515 | []() |
+| Bexar County | Texas | 2,003,554 | []() |
+| Broward County | Florida	| 1,952,778 | []() |
+| Santa Clara County | California	| 1,927,852 | []() |
+| Wayne County | Michigan | 1,749,343 | []() |
+| Alameda County | California	| 1,671,329 | []() |
+-->
+
+### Civic Users
+
+Concerned citizens have used Open Data to dig deeper into news stories like when learning that tips for taxi drivers suddenly increased after a software update.^[@iquantny2020] Open Payroll sites have made it easy to check the highest paid state employees.^[@ctpayroll2019] Very useful Open Source applications run on Open Data like One Bus Away^[@soundtransitdata] that allows users to figure out if they missed their bus or how far away the next one is from their location. Hack weeks are popular events often focused on solving a problem like the Opioid crisis.^[@doi:10.1080/14659891.2020.1753833] Public policy and innovation centers at universities publish data to support their community and share their research through stories.^[@ndsc]
+
+### Regional Partners
+
+Due to the overlap of boundaries between cities, counties, states and other regional jurisdictions, it is common for data sharing to occur between agencies. Through the process of federation, all or a subset of assets may be automatically shared from one agency data portal to another data portal. Data portals may also be configured so that all of their public assets may be harvested through a single API endpoint and appear in central catalogs like data.gov^[@datagov].
+
+## Summary
+
+When governments publish data publicly, it enables use across departments, the region and by citizens across the world (provided they have access to the internet). The next part of this book focuses on going beyond the intentions of Open Data and determine how to measure actual use through analytics and the examination of adoption, challenges and outcomes.

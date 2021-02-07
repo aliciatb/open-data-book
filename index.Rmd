@@ -10,10 +10,10 @@ link-citations: yes
 description: "A book about the discovery, use and evangelization of Open Data for Local Governments"
 url: 'https\://msaliciabrown/open-data-book'
 github-repo: aliciatb/open-data-book
-cover-image: images/gauravdeep-singh-bansal-caC13DIDe9E-unsplash.jpg
+classoption: openany
 ---
 
-# Welcome!
+# Introduction
 
 Thank you for joining me on a journey to explore the use of Open Data in the civic world.
 
@@ -23,7 +23,7 @@ The book is organized into 3 parts -
 * Part 2 questions the usefulness of Open Data to its producers, how use is measured and the challenges faced by producers and consumers of data.
 * Part 3 imagines practices to increase the discovery and sharing of Open Data to deliver the promised insights and information for all.
 
-I have had the great honor to work with many amazing organizations, agencies and governments to implement technology solutions that enabled the unleashing of data and analytics to power decision making and transparency.^[@blog5years] The purpose for this book is to synthesize what I have learned working in the field with customers and present examples and ideas to grow the Open Data ecosystem. I also hope to provide context to the state of data and organizational roles so that there is an understanding of why data may be as it is and how attitudes often reflect the responsibilities of a team. 
+I have had the great honor to work with many amazing organizations, agencies and governments to implement technology solutions that enabled the unleashing of data and analytics to power decision making and transparency.^[@blog5years] The purpose for this book is to synthesize what I have learned working in the field with customers and colleagues and share both the challenges and triumphs of Open Data programs. I will present examples and ideas to grow the Open Data ecosystem. I hope to provide context to the state of data and organizational roles so that there is an understanding of why data may be as it is and perspective on the concerns of the different groups involved in creating a successful program. 
 
 ```{r include=FALSE}
 # automatically create a bib database for R packages

@@ -1,9 +1,5 @@
 # Use of Open Data {#use}
 
-## Examples of Usefulness
-
-* Outcomes
-
 ## Measuring Use
 
 * Utilization
@@ -25,4 +21,3 @@
 
 ### Peeking at data
 
-Nobody wants to download 1 million records of taxi rides, but they do want to know why tips increased after a software update.^[@iquantny2020]
