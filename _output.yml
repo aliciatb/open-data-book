@@ -17,7 +17,7 @@ bookdown::gitbook:
       twitter: yes
     all: no
     info: yes
-    url: "https://msaliciabrown/open-data-book"
+    url: "https://open-data-people.github.io/open-data-field-guide/"
     github-repo: "open-data-people/open-data-field-guide"
 bookdown::pdf_book:
   includes:
