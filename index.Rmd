@@ -1,6 +1,8 @@
 --- 
 title: "A Field Guide to Open Data"
-author: "Alicia Brown"
+author:
+  - Alicia Brown^[https://msaliciabrown.com]
+  - Ryan Halll^[https://github.com/ryan-hall]
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
@@ -8,20 +10,24 @@ bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
 description: "A book about the discovery, use and evangelization of Open Data for Local Governments"
-url: 'https\://msaliciabrown/open-data-book'
-github-repo: aliciatb/open-data-book
+url: 'https\:/github.com/open-data-people/open-data-field-guide'
+github-repo: open-data-people/open-data-field-guide
 classoption: openany
 ---
 
 # Introduction
 
-Thank you for joining me on a journey to explore the use of Open Data in the civic world.
+Thank you for joining us on a journey to explore the use of Open Data in the civic world.
 
 The book is organized into 3 parts -
 
 * Part 1 provides an overview of what Open Data is, how it is used and who uses it.
 * Part 2 questions the usefulness of Open Data to its producers, how use is measured and the challenges faced by producers and consumers of data.
 * Part 3 imagines practices to increase the discovery and sharing of Open Data to deliver the promised insights and information for all.
+
+## Guides
+
+### Alicia
 
 I have had the great honor to work with many amazing organizations, agencies and governments to implement technology solutions that enabled the unleashing of data and analytics to power decision making and transparency.^[@blog5years] The purpose for this book is to synthesize what I have learned working in the field with customers and colleagues and share both the challenges and triumphs of Open Data programs. I will present examples and ideas to grow the Open Data ecosystem. I hope to provide context to the state of data and organizational roles so that there is an understanding of why data may be as it is and perspective on the concerns of the different groups involved in creating a successful program. 
 

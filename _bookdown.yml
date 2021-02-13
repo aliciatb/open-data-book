@@ -1,5 +1,5 @@
-book_filename: "open-data-book"
-repo: https://github.com/aliciatb/open-data-book
+book_filename: "open-data-field-guide"
+repo: https://github.com/open-data-people/open-data-field-guide
 delete_merged_file: true
 language:
   ui:

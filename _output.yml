@@ -10,7 +10,7 @@ bookdown::gitbook:
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
     download: ["pdf", "epub"]
-    edit: https://github.com/aliciatb/open-data-book/edit/main/%s
+    edit: https://github.com/open-data-people/open-data-field-guide/edit/main/%s
     sharing:
       github: yes
       facebook: no
@@ -18,7 +18,7 @@ bookdown::gitbook:
     all: no
     info: yes
     url: "https://msaliciabrown/open-data-book"
-    github-repo: "aliciatb/open-data-book"
+    github-repo: "open-data-people/open-data-field-guide"
 bookdown::pdf_book:
   includes:
     in_header: preamble.tex

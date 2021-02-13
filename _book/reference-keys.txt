@@ -1,4 +1,6 @@
 introduction
+guides
+alicia
 overview
 what-is-open-data
 topics
