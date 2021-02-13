@@ -1,6 +1,7 @@
 book_filename: "open-data-field-guide"
 repo: https://github.com/open-data-people/open-data-field-guide
 delete_merged_file: true
+output_dir: "docs"
 language:
   ui:
     chapter_name: "Chapter "
