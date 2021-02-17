@@ -37,7 +37,7 @@ The software used by departments to manage their operations may not have extensi
 
 Informational Technology teams can leverage Open Data to offset downloads from internal server infrastructure to handle the traffic caused by applications built by civic developers relying on transit, public safety and other large datasets.
 
-## Who Uses Open Data?
+## Who uses Open Data?
 
 ### Governments
 

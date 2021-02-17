@@ -1,5 +1,11 @@
 # Imagining Open Data {#imagine}
 
+:::tip
+<b>Note: this chapter is a work in a progress but shall be released later in 2021.</b>
+
+If you have any comments, please do [reach out](https://github.com/open-data-people/open-data-field-guide/discussions/new)!^[“Kraken” icon by Eucalyp from the Noun Project.]
+:::
+
 ## Sharing
 
 Adding datasets to a platform may benefit power users of data and make it easy consumable by tools and programming languages. However data alone will not advance the knowledge of the community it is intended to serve without also including narrative and insights from the collections of datasets shared to a platform.
