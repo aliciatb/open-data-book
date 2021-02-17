@@ -13,6 +13,7 @@ pre code {
   white-space: inherit;
 }
 
+/* Kraken team colors https://www.color-hex.com/color-palette/101876*/
 .tip{
   border: 4px #001628;
   border-style: dashed solid;
@@ -27,6 +28,7 @@ pre code {
   background-color: #99D9D9;
 }
 
+/* noun project Kraken by Eucalyp*/
 .tip {
   background-image: url("images/noun_Kraken_eucalyp.png");
 }
