@@ -3,7 +3,7 @@
 :::tip
 <b>Note: this chapter is a work in a progress but shall be released later in 2021.</b>
 
-If you have any comments, please do [reach out](https://github.com/open-data-people/open-data-field-guide/discussions/new)!^[“Kraken” icon by Eucalyp from the Noun Project.]
+If you have any comments, please do [reach out]!
 :::
 
 ## Sharing
