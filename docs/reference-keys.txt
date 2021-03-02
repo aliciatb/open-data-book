@@ -12,9 +12,10 @@ who-uses-open-data
 governments
 civic-users
 regional-partners
+open-data-use-cases
 summary
 use
-measuring-use
+measuring-actual-use
 challenges-of-open-data
 searching-for-data
 peeking-at-data

@@ -70,6 +70,26 @@ Of the top 20 cities in population as of the 2019 Census American Community Surv
 Table: Open Data portals for top 20 populated US cities
 
 <!--
+##### Financial Risk
+
+* Budget and Revenue
+* Checkbook/Expenditures
+* Payroll
+* Risk Indicators
+* Capital Projects
+
+Performance Measurement
+
+* Operational Goals
+
+###### Community Characteristics
+
+* Demographics
+* Socioeconomic
+* Education level
+* Workforce
+* 
+
 #### Top Counties
 
 | County | State | Population | Open Data Site | 
@@ -103,6 +123,25 @@ Concerned citizens have used Open Data to dig deeper into news stories like when
 ### Regional Partners
 
 Due to the overlap of boundaries between cities, counties, states and other regional jurisdictions, it is common for data sharing to occur between agencies. Through the process of federation, all or a subset of assets may be automatically shared from one agency data portal to another data portal. Data portals may also be configured so that all of their public assets may be harvested through a single API endpoint and appear in central catalogs like data.gov^[@datagov].
+
+## Open Data Use Cases
+
+Once data is published to an Open Data catalog it can be leveraged in solutions built to answer common questions people have of their elected official.
+
+:::usecase
+<b>Financial Risk</b>
+<p>The Michigan Treasury Department and California State Auditor have taken a proactive approach to tracking the financial health of local governments.</p>
+<ul>
+<li>
+  <a href="https://micommunityfinancials.michigan.gov/">MI Community Financial Dashboard</a>
+</li>
+<li>
+<a href="https://highriskcities.auditor.ca.gov/"> California State Auditor's Local Government High-Risk Dashboard
+</a>
+</li>
+</ul>
+:::
+
 
 ## Summary
 

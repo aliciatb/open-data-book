@@ -15,7 +15,7 @@ pre code {
 
 /* Kraken team colors https://www.color-hex.com/color-palette/101876*/
 .tip{
-  border: 4px #001628;
+  border: 4px #e9072b;
   border-style: dashed solid;
   padding: 1em;
   margin: 1em 0;
@@ -25,10 +25,29 @@ pre code {
   background-position: 15px center;
   min-height: 120px;
   color: #001628;
-  background-color: #99D9D9;
+  background-color: #99d9d9;
 }
 
 /* noun project Kraken by Eucalyp*/
 .tip {
-  background-image: url("images/noun_Kraken_eucalyp.png");
+  background-image: url("images/noun_kraken_eucalyp.png");
 }
+
+.usecase{
+  border: 4px #68a2b9;
+  border-style: dashed solid;
+  padding: 1em;
+  margin: 1em 0;
+  padding-left: 100px;
+  background-size: 70px;
+  background-repeat: no-repeat;
+  background-position: 15px center;
+  min-height: 120px;
+  color: #001628;
+  background-color: #99d9d9;
+}
+
+.usecase {
+  background-image: url("images/noun_spotlight_siipkan_creative.png");
+}
+
